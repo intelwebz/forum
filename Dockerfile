@@ -1,1 +1,1 @@
-FROM flarum/flarum:stable
+FROM flarum/flarum:1.8.5
