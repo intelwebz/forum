@@ -1,1 +1,1 @@
-FROM mondedie/flarum:stable
+FROM flarum/flarum:stable
